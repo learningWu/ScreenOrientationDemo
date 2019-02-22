@@ -5,7 +5,7 @@
 Gradle:
 ```
 dependencies {
-  implementation 'com.eddiezx:screen-orientation:1.0.0'
+  implementation 'com.eddiezx:screen-orientation-listener:1.0.1'
 }
 ```
 
@@ -13,8 +13,8 @@ Or Maven:
 ```
 <dependency>
   ><groupId>com.eddiezx</groupId>
-  ><artifactId>screen-orientation</artifactId>
-  ><version>1.0.0</version>
+  ><artifactId>screen-orientation-listener</artifactId>
+  ><version>1.0.1</version>
   ><type>pom</type>
 </dependency>
 ```
